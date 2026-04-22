@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wellcome-beta.vercel.app/sitemap.xml
